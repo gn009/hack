@@ -5,7 +5,7 @@
 
 ### How To Contribute
 
-[Checkout here](#)
+[Checkout here](https://github.com/gn009/hack/blob/main/CONTRIBUTING.md)
 
 ### What TO Contribute
 
