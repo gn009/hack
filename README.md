@@ -29,7 +29,7 @@
   <img src="https://contrib.rocks/image?repo=gn009/hack" />
 </a>
 
-### [LICENSE](#)
+### [LICENSE](https://github.com/gn009/hack/blob/main/LICENSE)
 
 ### Don't forget to star  ⭐
 
