@@ -10,6 +10,18 @@
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/gn009/hack.svg)](https://github.com/gn009/hack/pulls?q=is%3Aopen+is%3Apr)
 
 
+<h2> 🥞 Tech Stack</h2>
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
+ </p>
+<p align="center">
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
+ </p>
+<p align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </p>
+<br>
+
 ### How To Contribute
 
 [Checkout here](https://github.com/gn009/hack/blob/main/CONTRIBUTING.md)
