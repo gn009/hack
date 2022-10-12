@@ -128,3 +128,5 @@ git push -u origin <your_branch_name>
 ### Don't forget to star  ⭐
 
 # Happy Contributing
+
+<img src="eatsleepcode.gif" width="250"/>
