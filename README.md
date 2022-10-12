@@ -3,6 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/94965458/194911661-9a70d8cd-2419-4ba4-b6a5-61833552435d.png)
 
+[![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gn009/hack/blob/main/CONTRIBUTING.md)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/gn009/hack/issues)
+[![GitHub issues by-label](https://img.shields.io/github/issues/gn009/hack/good%20first%20issue.svg)](https://github.com/gn009/hack/labels/good%20first%20issue)
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/gn009/hack.svg)](https://github.com/gn009/hack/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr/gn009/hack.svg)](https://github.com/gn009/hack/pulls?q=is%3Aopen+is%3Apr)
+
+
 ### How To Contribute
 
 [Checkout here](https://github.com/gn009/hack/blob/main/CONTRIBUTING.md)
@@ -103,6 +110,8 @@ git push -u origin <your_branch_name>
 </a>
 
 ### [LICENSE](https://github.com/gn009/hack/blob/main/LICENSE)
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/gn009/hack/blob/main/LICENSE)
 
 ### Don't forget to star  ⭐
 
