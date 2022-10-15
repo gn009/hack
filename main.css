@@ -452,3 +452,39 @@ header {
   -webkit-box-shadow: 0px 0px 18px -4px rgba(109, 109, 109, 0.64);
           box-shadow: 0px 0px 18px -4px rgba(109, 109, 109, 0.64);
 }
+.services .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.5rem;
+}
+
+.services .box-container .box{
+  padding:3rem 2rem;
+  text-align: center;
+  background: var(--main-color);
+  cursor: pointer;
+}
+
+.services .box-container .box:hover{
+  background: var(--black);
+}
+
+.services .box-container .box img{
+  height: 7rem;
+}
+
+.services .box-container .box h3{
+  color:var(--white);
+  font-size: 1.7rem;
+  padding-top: 1rem;
+}
+.title1 ,h2{
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: -5rem;
+}
+.container43,h2{
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0rem;
+}
