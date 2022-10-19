@@ -339,6 +339,7 @@ header {
 .title h2 {
   text-align: center;
   text-transform: uppercase;
+  margin: 40px auto;
 }
 .title span {
   color: var(--clr-secondary);
