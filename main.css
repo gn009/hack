@@ -339,6 +339,7 @@ header {
 .title h2 {
   text-align: center;
   text-transform: uppercase;
+  margin: 40px auto;
 }
 .title span {
   color: var(--clr-secondary);
@@ -389,57 +390,14 @@ header {
 
 
 /* featured */
-.featured-item{
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  -webkit-transition: var(--trans);
-  -o-transition: var(--trans);
-  transition: var(--trans);
+.carousel-item img {
+  height: 100vh;
 }
-.featured-item::after{
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(18%, transparent), color-stop(99%, rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.8)));
-  background: -o-linear-gradient(top, transparent 0%, transparent 18%, rgba(0, 0, 0, 0.8) 99%, rgba(0, 0, 0, 0.8) 100%);
-  background: linear-gradient(to bottom, transparent 0%, transparent 18%, rgba(0, 0, 0, 0.8) 99%, rgba(0, 0, 0, 0.8) 100%);
-}
-.featured-item-content{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  z-index: 2;
-  color: #fff;
-  width: 100%;
-  padding: 1rem;
-  -webkit-transform: translateY(68%);
-      -ms-transform: translateY(68%);
-          transform: translateY(68%);
-  -webkit-transition: var(--trans);
-  -o-transition: var(--trans);
-  transition: var(--trans);
-}
-.featured-item-content span{
-  font-size: 1.2rem;
-  display: block;
-  margin-bottom: 1.2rem;
-  text-transform: capitalize;
-}
-.featured-item-content .text{
-  color: #fff;
-  -webkit-transition: var(--trans);
-  -o-transition: var(--trans);
-  transition: var(--trans);
-}
-.featured-item:hover .featured-item-content{
-  -webkit-transform: translateY(0);
-      -ms-transform: translateY(0);
-          transform: translateY(0);
+
+@media (max-width: 992px) {
+  .carousel-item img {
+    height: 50vh;
+  }
 }
 
 .py-4{
@@ -495,6 +453,7 @@ ul {
   padding: 0px;
 }
 .footer-section {
+  margin-top: 800px;
 background: #151414;
 position: relative;
 }
